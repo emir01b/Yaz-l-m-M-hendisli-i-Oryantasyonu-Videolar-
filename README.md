@@ -1,4 +1,5 @@
 # Yaz-l-m-M-hendisli-i-Oryantasyonu-Videolar-
+Benim adım emirhan gündoğdu okul numaram ise 225541069
 Yazılım Mühendisliği Oryantasyonu kapsamında çektiğimiz java proje örnekleri videolarının linkini aşağıya read me dosyası içine ekliyorum 
 kanal linki  = https://www.youtube.com/channel/UCJIR40Q2Jzt7EF6_2_AD-lg/
 https://www.youtube.com/watch?v=7voAEMUFuyM
